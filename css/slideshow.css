@@ -41,7 +41,9 @@
 .controls {
   position: relative;
   z-index: 1000;
+  opacity: 0.2;
   align-self: center;
+  bottom: -10px;
 }
 
 .controls ul {
